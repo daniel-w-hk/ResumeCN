@@ -1,0 +1,78 @@
+[site]
+favicon = "/ResumeCN/favicon.svg"
+title = "王明康"
+description = "王明康的个人简历与项目作品集，求职方向为供应链、运营与商业分析。"
+last_updated = "2026 年 10 月 6 日"
+
+[author]
+avatar = "/ResumeCN/bio.webp"
+name = "王明康"
+eyebrow = "求职意向"
+title = "供应链 · 运营 · 商业分析"
+institution = "香港中文大学"
+
+[social]
+email = "mink_98@foxmail.com"
+resume = "/cv/"
+github = "https://github.com/daniel-w-hk"
+
+[[navigation]]
+title = "简介"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "项目"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "教育"
+type = "page"
+target = "education"
+href = "/education"
+
+[[navigation]]
+title = "技能与学习"
+type = "page"
+target = "skills"
+href = "/skills"
+
+[[navigation]]
+title = "精选课程"
+type = "page"
+target = "courses"
+href = "/courses"
+
+[[navigation]]
+title = "校园经历"
+type = "page"
+target = "experience"
+href = "/experience"
+
+[[navigation]]
+title = "荣誉奖励"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "简历"
+type = "link"
+target = "cv"
+href = "/cv/"
+
+[features]
+enable_likes = false
+enable_one_page_mode = true
+
+[i18n]
+enabled = false
+locales = ["zh-cn"]
+default_locale = "zh-cn"
+mode = "fixed"
+fixed_locale = "zh-cn"
+persist = false
+switcher = false
