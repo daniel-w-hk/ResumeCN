@@ -1,4 +1,4 @@
-[mink_98@foxmail.com](mailto:mink_98@foxmail.com) · +852 9402 3571
+[mink_98@foxmail.com](mailto:mink_98@foxmail.com) · +86 13776538075
 
 ## 求职意向
 
